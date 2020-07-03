@@ -14,6 +14,7 @@ comment:  Infomatik und technische Mechanik. Ziel ist es neben den
 script:   https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js
 
 -->
+[Hier als LiaScript anschauen](https://liascript.github.io/course/?https://raw.githubusercontent.com/aschiffler/fhws_lia/master/README.md)
 
 # Mechanik und Informatik
 ## Einführung zu p5.js
